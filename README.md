@@ -30,7 +30,7 @@ Built using **structures**, **pointers**, and **file handling**, the system ensu
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Address-Book-Management-System.git
+   git clone https://github.com/Deekshith-kumar-A/-Address-Book-Management-System
 ===== Address Book Menu =====
 1. Add Contact
 2. View Contacts

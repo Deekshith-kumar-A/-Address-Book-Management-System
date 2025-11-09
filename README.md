@@ -31,3 +31,15 @@ Built using **structures**, **pointers**, and **file handling**, the system ensu
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/Address-Book-Management-System.git
+===== Address Book Menu =====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter your choice: 1
+Enter Name: Deekshith Kumar
+Enter Mobile: 9876543210
+Enter Email: deekshith@gmail.com
+Contact saved successfully!
